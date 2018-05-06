@@ -1,0 +1,9 @@
+a.txt-->a	1
+a.txt-->b	1
+a.txt-->c	1
+a.txt-->hello	3
+b.txt-->a	1
+b.txt-->d	1
+b.txt-->hello	2
+b.txt-->so	1
+b.txt-->world	1
